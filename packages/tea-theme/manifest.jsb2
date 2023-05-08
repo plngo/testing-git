@@ -1,0 +1,22 @@
+{
+	"projectName": "tea-theme",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "tea-theme CSS",
+		"file": "tea-theme.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/admin/jqadm/"
+		}]
+	}, {
+		"name": "tea-theme JS",
+		"file": "tea-theme.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/admin/jqadm/"
+		}]
+	}],
+	"resources" : []
+}
